@@ -5,11 +5,12 @@
 
 << comment
 
-Anything we type hre will not execute
+Anything we type 
+here will not execute
 
 comment
 
-name = "Tanima"
+name="Tanima"
 
 echo "My name is $name, and today's date is $(date)"
 
@@ -21,4 +22,5 @@ read surname
 echo "My surname is $surname"
 
 
-echo "The family members in $0 are $1,$2"
+echo "The family members folder name is $0"
+echo "Other Family name details are $1"
